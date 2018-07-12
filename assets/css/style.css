@@ -203,6 +203,7 @@ h3,
   float: left;
   width: 200px;
   height: auto;
+  /* height: 250px */
   margin-top: 10px;
   margin-right: 25px;
 }
